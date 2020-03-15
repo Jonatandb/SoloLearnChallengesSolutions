@@ -1,0 +1,29 @@
+	Se atiende en orden alfabético
+	
+	Demoran 20 minutos por cada licencia
+	
+	Cada agente puede atender a un cliente a la vez
+	
+	¿Cuanto voy a tardar en salir?
+	
+	
+	Resolver:
+		Dados los nombres de quienes se presentan junto conmigo, determinar demora que tendré
+	
+	Entrada:	Mi nombre, Cantidad agentes, Lista nombres otros clientes
+	
+	Salida:		Numero total de minutos esperados
+	
+	Ejemplo:
+
+		"Eric", 2, "Adam, Caroline, , Frank, Rebecca"
+		
+		Personas:
+			Eric, Adam, Caroline, Rebecca, Frank
+			
+			Ordenadas:
+				Adam, Caroline, Eric, Frank, Rebecca
+		
+		Agentes		Turno		Demora que tendré
+		2			2 			40 min
+	
