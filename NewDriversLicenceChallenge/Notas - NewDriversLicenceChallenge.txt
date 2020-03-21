@@ -8,7 +8,7 @@
 	
 	
 	Resolver:
-		Dados los nombres de quienes se presentan junto conmigo, determinar demora que tendré
+		Dados los nombres de quienes se presentan junto conmigo, determinar demora que tendré.
 	
 	Entrada:	Mi nombre, Cantidad agentes, Lista nombres otros clientes
 	
@@ -25,5 +25,5 @@
 				Adam, Caroline, Eric, Frank, Rebecca
 		
 		Agentes		Turno		Demora que tendré
-		2			2 			40 min
+		2			3 			40 min
 	
